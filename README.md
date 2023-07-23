@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Ujjwal, an engineer who loves learning, talking about new technologies and solving real world problems. I am currently working on my startup [CodeNicely](https://codenicely.in/) and at [GimBooks](https://gimbooks.com). I have worked earlier with many startups, some non-profits and enterprises including [Walmart Labs](https://www.walmartlabs.com/) and [Wikimedia Foundation](http://wikimediafoundation.org/). 
+I am Ujjwal, an engineer who loves learning, talking about new technologies and solving real world problems. I am currently learning prompt Engineering and building small projects using APIs built around LLMs. I am also working on my startup [CodeNicely](https://codenicely.in/) and at [GimBooks](https://gimbooks.com) parallely. I have worked earlier with many startups, some non-profits and enterprises including [Walmart Labs](https://www.walmartlabs.com/) and [Wikimedia Foundation](http://wikimediafoundation.org/). 
 
 If you need some help or you have an interesting collaboration opportunity for me, feel free to reach out and we will take it from there.
 
